@@ -1159,7 +1159,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"linkedom@npm:^0.18.9":
+"linkedom@npm:0.18.9":
   version: 0.18.9
   resolution: "linkedom@npm:0.18.9"
   dependencies:
@@ -1420,7 +1420,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "pages-repro@workspace:."
   dependencies:
-    linkedom: "npm:^0.18.9"
+    linkedom: "npm:0.18.9"
     wrangler: "npm:3.114.0"
   languageName: unknown
   linkType: soft
