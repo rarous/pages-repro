@@ -1,4 +1,10 @@
 {
   "name": "pages-repro",
-  "packageManager": "yarn@4.7.0"
+  "packageManager": "yarn@4.7.0",
+  "dependencies": {
+    "linkedom": "^0.18.9"
+  },
+  "devDependencies": {
+    "wrangler": "3.114.0"
+  }
 }
